@@ -1,0 +1,13 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 28 Jul 2021 14:02:59 at https://haze.yt/atero/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://haze.yt/atero/ -O1 "C:\My Web Sites\atero yt" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+14:03:22	Warning: 	Found for https://haze.yt/atero/?add-to-cart=86203
+14:03:22	Warning: 	File has moved from https://haze.yt/atero/?add-to-cart=86203 to https://haze.yt/warenkorb/
+
+HTTrack Website Copier/3.49-2 mirror complete in 23 seconds : 89 links scanned, 87 files written (8066250 bytes overall) [7057167 bytes received at 306833 bytes/sec], 1372842 bytes transferred using HTTP compression in 35 files, ratio 21%, 15.1 requests per connection
+(No errors, 2 warnings, 0 messages)

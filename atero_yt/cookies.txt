@@ -1,0 +1,9 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+haze.yt	TRUE	/	FALSE	1999999999	oDEGBxVhdizuj	o%5BDJ%40t%2AsW7_fT
+haze.yt	TRUE	/	FALSE	1999999999	lZKfOFzWM_gGjx	lPX5DMyJCusa7j
+haze.yt	TRUE	/	FALSE	1999999999	jniGFxXohdvsIw	8jQgz%2AqIKHMcGi
+haze.yt	TRUE	/	FALSE	1999999999	woocommerce_items_in_cart	1
+haze.yt	TRUE	/	FALSE	1999999999	woocommerce_cart_hash	cf8dd45cf5ab8c75a880225eb0a71f54
+haze.yt	TRUE	/	FALSE	1999999999	wp_woocommerce_session_82886313ec0cd780c6cc6b0e31fc2482	769811617ca4409677eb56a57e952e38%7C%7C1627646508%7C%7C1627642908%7C%7C64457ffcbb71d10fc8db110881dae28f
+
